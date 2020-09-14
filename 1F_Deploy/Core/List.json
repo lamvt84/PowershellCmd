@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "name" : "s01",
+        "services" : [
+            { 
+                "id" : 1,
+                "name" : "MBF.BillingAccount.UserAuthen"
+            }
+        ],
+        "iis" : [
+            { 
+                "id" : 1,
+                "name" : "AccountApi"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "s01",
+        "services": [
+            {
+                "id": 1,
+                "name": "MBF.BillingAccount.UserAuthen"
+            }
+        ],
+        "iis": [
+            {
+                "id": 1,
+                "name": "AccountApi"
+            }
+        ]
+    }
+]
